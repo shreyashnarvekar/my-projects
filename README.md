@@ -6,9 +6,9 @@ Check out my `live projects` below:
 ## PHP ~ Live Projects
 
 - [Project 1: Student Management System](http://sms.shreyash.great-site.net/login.php)
-- [Project 2: Sound & DJ](https://sound.shreyash.great-site.net/)
-- [Project 3: Sarkar Tankar](sarkartankar.shreyash.great-site.net)
-- [Project 4: iNotes](crudoperations.shreyash.great-site.net)
+- [Project 2: Sound & DJ](http://sound.shreyash.great-site.net/index.php?i=1)
+- [Project 3: Sarkar Tankar](http://sarkartankar.shreyash.great-site.net/)
+- [Project 4: iNotes](http://crudoperations.shreyash.great-site.net/?i=1)
 
 <br>
 
