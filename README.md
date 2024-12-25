@@ -10,10 +10,15 @@ Check out my `live projects` below:
 - [Project 3: Sarkar Tankar](sarkartankar.shreyash.great-site.net)
 - [Project 4: iNotes](crudoperations.shreyash.great-site.net)
 
-### Credentials for PHP ~ Live Projects
-`Project 1 :
-email : shreyash@narvekar.com
-password : Shreyash@123`
+<br>
 
-Note : I have used same credential for `[Admin / Staff / Student]` so you can easily navigate through it.
+### Credentials for PHP ~ Live Projects
+
+`
+email : dev.shreyashnarvekar@gmail.com
+`
+
+`
+password : Shreyash@123
+`
 <hr>
